@@ -1,3 +1,4 @@
+/* HOME PAGE STYLING */
 .background_img_container {
   position: relative;
 }
@@ -120,4 +121,20 @@
   .aboutMeparragraph {
     padding-right: 4% !important;
   }
+}
+
+/* PORTFOLIO PAGE STYLING */
+/* Style me */
+.projectOneRow {
+  padding: 0;
+  margin-top: 2%;
+}
+.portfolioCard {
+  width: 100%;
+  margin-left: 3%;
+}
+
+/* Classy Movies */
+.projectTwoRow, .projectThreeRow {
+  margin-top: 10%;
 }
