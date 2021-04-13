@@ -57,11 +57,6 @@
 
 /* PORTFOLIO PAGE STYLING */
 /* Style me */
-.projectOneRow {
-  padding: 0;
-  margin-top: 2%;
-}
-
 .portfolioCard {
   width: 100%;
   margin-left: 3%;
@@ -72,21 +67,13 @@
   background-color: grey;
 }
 
-/* Project Rows */
-.projectTwoRow,
-.projectThreeRow,
-.projectFourRow,
-.projectFiveRow,
-.projectSixRow {
-  margin-top: 10%;
-}
-
 /* 481px — 768px: iPads, Tablets. */
 @media only screen and (min-width: 481px) and (max-width: 768px) {
   .rowProjects {
     margin-top: 5%;
   }
 
+  /* Portfolio */
   .carousel-inner {
     width: 80%;
     margin-left: 10%;
@@ -111,7 +98,7 @@
 
   .rowProjects {
     margin-top: 5%;
-    margin-bottom: 2%;
+    margin-bottom: 3%;
   }
 
   .topProjectsH2 {
@@ -147,6 +134,11 @@
   }
 
   /* PORTFOLIO PAGE STYLING */
+  .rowProjectContainer{
+    justify-content: center;
+    margin-bottom: 3%;
+  }
+
   .projectOneRow,
   .projectTwoRow,
   .projectThreeRow,
@@ -155,12 +147,14 @@
   .projectSixRow {
     padding: 0;
     margin-top: 2%;
+    margin-right: 2%;
     width: 40%;
   }
 
   .portfolioCard {
     width: 100% !important;
-    margin-left: 3%;
+    height: 100%;
+    
   }
 
   .carousel-control-next-icon,
@@ -168,19 +162,20 @@
     background-color: grey;
   }
 
-  /* Project Rows */
-  .projectTwoRow,
-  .projectThreeRow,
-  .projectFourRow,
-  .projectFiveRow,
-  .projectSixRow {
-    margin-top: 10%;
-  }
-
   .carousel-inner {
     width: 80%;
     margin-left: 10%;
   }
+}
+
+@media only screen and (min-width: 1000px) {
+  .btn-container {
+    position: absolute;
+    top: 73%;
+    left: 20%;
+    display: inline-flex;
+  }
+
 }
 
 /* 1201px and more — Extra large screens, TV. */
