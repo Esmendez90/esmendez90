@@ -55,7 +55,7 @@ I want employers and other developers to know that I am able to create a mobile 
 
 ## Link to Page
 
-<https://esmendez90.github.io/>
+<https://esmendez90.github.io/esmendez90/>
 
 ## Tools
 
