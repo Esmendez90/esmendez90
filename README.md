@@ -45,13 +45,13 @@ I want employers and other developers to know that I am able to create a mobile 
 
 ## Screenshots
 
-<img src="./img/esteban/one.png" alt="Home/About screenshot" width="50%" height="55%">
+<img src="img/esteban/one.png" alt="Home/About screenshot" width="50%" height="55%">
 
-<img src="./img/esteban/two.png" alt="Portfolio screenshot" width="50%" height="55%">
+<img src="img/esteban/two.png" alt="Portfolio screenshot" width="50%" height="55%">
 
-<img src="./img/esteban/three.png" alt="Contact Me screenshot" width="50%" height="55%">
+<img src="img/esteban/three.png" alt="Contact Me screenshot" width="50%" height="55%">
 
-<img src="./img/esteban/four.png" alt="Contact Me screenshot" width="50%" height="55%">
+<img src="img/esteban/four.png" alt="Contact Me screenshot" width="50%" height="55%">
 
 ## Link to Page
 
