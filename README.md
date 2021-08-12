@@ -12,7 +12,7 @@ As a student-developer, I want to create web applications that render well on a 
 * [Description](#description)
 * [Requirements](#requirements)
 * [Screenshots](#screenshots)
-* [Link to Page](#link-to-page)
+* [Link To Application](#link-to-application)
 * [Tools](#tools)
 * [License](#License)
 
@@ -53,9 +53,9 @@ I want employers and other developers to know that I am able to create a mobile 
 
 <img src="img/esteban/four.png" alt="Contact Me screenshot" width="50%" height="55%">
 
-## Link to Page
+## Link To Application
 
-<https://esmendez90.github.io/esmendez_portfolio/>
+<https://esmendez90.github.io/my_portfolio/>
 
 ## Tools
 
