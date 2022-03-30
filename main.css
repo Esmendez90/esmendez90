@@ -1,5 +1,13 @@
 /* Mainly mobile responsive styling */
 /* HOME PAGE STYLING */
+.msg-container {
+  width: 100%;
+  background-color: rgb(247, 88, 88);
+  color: white;
+}
+.msg-container > a {
+  
+}
 .background_img_container {
   position: relative;
 }
@@ -151,7 +159,7 @@
   }
 
   /* PORTFOLIO PAGE STYLING */
-  .rowProjectContainer{
+  .rowProjectContainer {
     justify-content: center;
     margin-bottom: 3%;
   }
@@ -171,7 +179,6 @@
   .portfolioCard {
     width: 100% !important;
     height: 100%;
-    
   }
 
   .carousel-control-next-icon,
@@ -192,7 +199,6 @@
     left: 20%;
     display: inline-flex;
   }
-
 }
 
 /* 1201px and more — Extra large screens, TV. */
