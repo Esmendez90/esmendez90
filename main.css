@@ -1,13 +1,5 @@
 /* Mainly mobile responsive styling */
 /* HOME PAGE STYLING */
-.msg-container {
-  width: 100%;
-  background-color: rgb(247, 88, 88);
-  color: white;
-}
-.msg-container > a {
-  
-}
 .background_img_container {
   position: relative;
 }
